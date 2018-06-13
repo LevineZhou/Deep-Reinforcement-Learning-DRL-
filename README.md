@@ -1,2 +1,3 @@
 # ICS
-Hello, everyone! This is my first github repository!
+Hello, everyone! 
+I am so happy to study computer science!
